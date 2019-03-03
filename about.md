@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-안녕하세요 반갑습니다
+안녕하세요, 나리군 블로그입니다.
